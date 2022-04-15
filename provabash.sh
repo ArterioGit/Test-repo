@@ -3,5 +3,5 @@
 cd ~/Documents/Progetti/Python/Prova
 # Activate pipenv
 pipenv shell
-# Open Atom at the current location
-atom .
+# Open VS Code at the current location
+code .
